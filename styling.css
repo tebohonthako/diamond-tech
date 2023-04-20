@@ -1,3 +1,4 @@
+h1,
 h2 {
   font-family: "Playfair Display", serif;
 }
@@ -11,10 +12,37 @@ h2 {
   cursor: grab;
   background-color: #c768c3;
   transition: all 0.6s ease-in-out;
-  border-radius: 0.3rem;
+  border-radius: 50%;
 }
 .ceo {
   display: block;
   margin: 0 auto;
   margin-left: 35rem;
+}
+.contact {
+  background-color: #c768c3;
+}
+@media screen and (max-width: 767px) {
+  body {
+    background-color: #fff;
+  }
+}
+.contact-page {
+  background: linear-gradient(135deg, #fdfcfb 0%, #e2d1c3 100%);
+}
+.w-100 {
+  background-color: #ebdfd5;
+  border: 0rem;
+}
+#about {
+  background: linear-gradient(135deg, #fdfcfb 0%, #e2d1c3 100%);
+}
+.social-pad {
+  padding: 1rem;
+}
+.social-pad:hover {
+  cursor: -moz-zoom-in;
+  transition: all 0.7s ease-in-out;
+  background-color: #c768c3;
+  border-radius: 50%;
 }

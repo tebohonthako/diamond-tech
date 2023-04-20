@@ -1,0 +1,20 @@
+h2 {
+  font-family: "Playfair Display", serif;
+}
+.btn:hover {
+  cursor: grab;
+  background-color: #c768c3;
+  transition: all 0.5s ease-in-out;
+  border: #000;
+}
+.nav-link:hover {
+  cursor: grab;
+  background-color: #c768c3;
+  transition: all 0.6s ease-in-out;
+  border-radius: 0.3rem;
+}
+.ceo {
+  display: block;
+  margin: 0 auto;
+  margin-left: 35rem;
+}

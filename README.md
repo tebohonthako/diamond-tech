@@ -4,7 +4,9 @@
 #Cloning the project 
 
 git clone https://github.com/tebohonthako/diamond-tech.git
+
 cd diamond-tech
+
 code . 
 
 #Running the project 
